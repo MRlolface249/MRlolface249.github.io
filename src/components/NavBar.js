@@ -1,6 +1,6 @@
 import React from "react";
-import { Outlet, Link } from "react-router-dom";
 import "../style.css";
+import { Outlet, Link } from "react-router-dom";
 import jester from "../images/Hasidu_Jester.jpg";
 
 export default function NavBar() {
